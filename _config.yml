@@ -27,10 +27,10 @@ author:
   name             : "Zhichao Chen (陈治潮)"
   pronouns         : # example: "she/her"  
   bio              : "A 3rd year PhD student at UCLA NanoCAD Lab."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Los Angeles, CA, USA"
+  employer         : "UCLA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhichaochen@ucla.edu"
 
   # Academic websites
   academia         : # URL
