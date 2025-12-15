@@ -24,18 +24,18 @@ repository               : "Chen-Zhichao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhichao Chen (陈治潮)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A 3rd year PhD student at UCLA NanoCAD Lab."
+  location         : "Los Angeles, CA, USA"
+  employer         : "UCLA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhichaochen@ucla.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=V6V-o1sAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
