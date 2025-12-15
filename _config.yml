@@ -24,9 +24,9 @@ repository               : "Chen-Zhichao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhichao Chen (陈治潮)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A 3rd year PhD student at UCLA NanoCAD Lab."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
