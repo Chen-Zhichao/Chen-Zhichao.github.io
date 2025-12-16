@@ -11,7 +11,7 @@ Hello, I am Zhichao Chen (陈治潮), a third-year Ph.D. student at [NanoCAD Lab
 I am always open to research collaborations and internship opportunities. Please feel free to reach out if you are interested in working with me.
 
 ## News
-- **2025.2** &nbsp;&nbsp;&nbsp; YAP is accepted by DAC 2025.
+- **2025.02** &nbsp;&nbsp;&nbsp; YAP is accepted by DAC 2025.
 - **2024.12** &nbsp;&nbsp;&nbsp; One paper got accepted by IEEE TVLSI.
 
 ## Educations
