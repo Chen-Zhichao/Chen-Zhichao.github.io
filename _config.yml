@@ -32,9 +32,9 @@ font:
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhichao Chen (陈治潮)"
+  name             : "Zhichao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "A 3rd year PhD student at UCLA NanoCAD Lab."
+  bio              : "Ph.D. student, UCLA ECE."
   location         : "Los Angeles, CA, USA"
   employer         : "UCLA"
   uri              : # URL
