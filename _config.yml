@@ -38,7 +38,13 @@ author:
   location         : "Los Angeles, CA, USA"
   employer         : "UCLA"
   uri              : # URL
-  email            : "zhichaochen@ucla.edu"
+  # email            : "zhichaochen@ucla.edu"
+  email: "" # Leave blank to hide email from author profile
+
+  links:
+    - label: "zhichaochen@ucla.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:zhichaochen@ucla.edu"
 
   # Academic websites
   academia         : # URL

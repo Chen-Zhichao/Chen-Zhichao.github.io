@@ -14,13 +14,17 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : Georgia, Times, serif;
+/* Prefer Lora for serif text (headings/captions), Source Sans Pro for UI, JetBrains Mono for code */
+$serif                      : 'Lora', Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : 'JetBrains Mono', Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+/* Preferred UI font: Google Font 'Source Sans Pro' (loaded in _includes/head.html) */
+$ui-font-family             : 'Source Sans Pro', $sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -39,8 +43,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : $ui-font-family;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
