@@ -18,3 +18,6 @@ I am always open to research collaborations and internship opportunities. Please
 - **2019.09 – 2023.06** &nbsp;&nbsp;&nbsp; B.E. in Electronic Science and Engineering, Nanjing University
 
 ## Selected Works
+- **A Comparative Analysis of Low-Temperature & Room Temperature Circuit Operation**, IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2024
+**Zhichao Chen**, Ali H. Hassan, Rhesa Ramadhan, Yingheng Li, Chih-Kong Ken Yang, Sudhakar Pamarti, Puneet Gupta
+[Paper](https://ieeexplore.ieee.org/abstract/document/10787912)
