@@ -11,10 +11,10 @@ Hello, I am Zhichao Chen (陈治潮), a third-year Ph.D. student at [NanoCAD Lab
 I am always open to research collaborations and internship opportunities. Please feel free to reach out if you are interested in working with me.
 
 ## News
-- **2025.2**   YAP is accepted by DAC 2025.
+- **2025.2** &nbsp;&nbsp;&nbsp; YAP is accepted by DAC 2025.
 
 ## Educations
-- <span class="edu-date">2023.09 – Present</span> Ph.D. in Electrical and Computing Engineering, University of California, Los Angeles
-- <span class="edu-date">2019.09 – 2023.06</span> B.E. in Electronic Science and Engineering, Nanjing University
+- **2023.09 – Present** &nbsp;&nbsp;&nbsp; Ph.D. in Electrical and Computing Engineering, University of California, Los Angeles
+- **2019.09 – 2023.06** &nbsp;&nbsp;&nbsp; B.E. in Electronic Science and Engineering, Nanjing University
 
 ## Selected Works
