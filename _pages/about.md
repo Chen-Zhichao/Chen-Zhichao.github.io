@@ -27,3 +27,7 @@ I am always open to research collaborations and internship opportunities. Please
 
 - **Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential Pair-Based Memory Design**, *IEEE International Symposium on Circuits and Systems (ISCAS), 2023*  
   **Zhichao Chen**, Yang Xiao, Li Du, Yuan Du &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/document/10182219)
+
+## Experience
+- **2025.06 – 2025.09** &nbsp;&nbsp;&nbsp; Graduate Intern Tenical, Intel
+- **2023.09 – Present** &nbsp;&nbsp;&nbsp; Graduate Student Researcher, UCLA
