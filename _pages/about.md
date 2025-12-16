@@ -22,4 +22,4 @@ I am always open to research collaborations and internship opportunities. Please
   - **Zhichao Chen**, Ali H. Hassan, Rhesa Ramadhan, Yingheng Li, Chih-Kong Ken Yang, Sudhakar Pamarti, Puneet Gupta | [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912)
 
 - **Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential Pair-Based Memory Design**, *IEEE International Symposium on Circuits and Systems (ISCAS), 2023*
-  **Zhichao Chen**, Yang Xiao, Li Du, Yuan Du | [[Paper]](https://ieeexplore.ieee.org/document/10182219)
+  - **Zhichao Chen**, Yang Xiao, Li Du, Yuan Du | [[Paper]](https://ieeexplore.ieee.org/document/10182219)
