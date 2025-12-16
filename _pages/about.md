@@ -12,5 +12,4 @@ I am always open to research collaborations and internship opportunities. Please
 
 ## News
 
-- date: 2025.12
-  text: "Launched my personal academic website." 
+- **2025.2** YAP is accepted by DAC 2025.
