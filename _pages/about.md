@@ -20,14 +20,13 @@ I am always open to research collaborations and internship opportunities. Please
 
 ## Selected Works
 - **YAP: Yield Modeling and Simulation for Advanced Packaging**, *62nd ACM/IEEE Design Automation Conference (DAC), 2025*  
-  **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912)
+  **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912) &nbsp;&nbsp; [[Code]](https://github.com/nanocad-lab/YAP)
 
 - **Invited Paper: System and Technology Co-Optimization Framework for a Disaggregated System with Passive Die 2.5D Integration**, *44th ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2025*  
   Gauthaman Murali, Mudit Bhargava, Shairfe Salahuddin, **Zhichao Chen**, Pandey Archana, Rangachar Srinivasa Srivatsa, Budhkar Prerna, Ragh Kuttappa, Honkote Vinayak, Prashanth Sakthi, Na Myung-Hee, Karnik Tanay &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11240957)
 
 - **A Comparative Analysis of Low-Temperature & Room Temperature Circuit Operation**, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2024*  
-  **Zhichao Chen**, Ali H. Hassan, Rhesa Ramadhan, Yingheng Li, Chih-Kong Ken Yang,  
-  Sudhakar Pamarti, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912)
+  **Zhichao Chen**, Ali H. Hassan, Rhesa Ramadhan, Yingheng Li, Chih-Kong Ken Yang, Sudhakar Pamarti, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912) &nbsp; | &nbsp; [[Code]](https://github.com/nanocad-lab/PROCEED-LT)
 
 - **Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential Pair-Based Memory Design**, *IEEE International Symposium on Circuits and Systems (ISCAS), 2023*  
   **Zhichao Chen**, Yang Xiao, Li Du, Yuan Du &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/document/10182219)
