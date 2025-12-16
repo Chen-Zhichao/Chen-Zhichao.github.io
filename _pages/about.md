@@ -21,6 +21,9 @@ I am always open to research collaborations and internship opportunities. Please
 - **YAP: Yield Modeling and Simulation for Advanced Packaging**, *62nd ACM/IEEE Design Automation Conference (DAC), 2025*  
   **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912)
 
+- **Invited Paper: System and Technology Co-Optimization Framework for a Disaggregated System with Passive Die 2.5D Integration**, *44th ACM/IEEE International Conference on Computer-Aided Design (ICCAD), 2025*  
+  Murali Gauthaman, Bhargava Mudit, Salahuddin Shairfe, **Chen Zhichao**, Pandey Archana, Srinivasa Srivatsa Rangachar, Budhkar Prerna, Kuttappa Ragh, Honkote Vinayak, Sakthi Prashanth, Na Myung-Hee, Karnik Tanay &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11240957)
+
 - **A Comparative Analysis of Low-Temperature & Room Temperature Circuit Operation**, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2024*  
   **Zhichao Chen**, Ali H. Hassan, Rhesa Ramadhan, Yingheng Li, Chih-Kong Ken Yang,  
   Sudhakar Pamarti, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912)
@@ -28,6 +31,6 @@ I am always open to research collaborations and internship opportunities. Please
 - **Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential Pair-Based Memory Design**, *IEEE International Symposium on Circuits and Systems (ISCAS), 2023*  
   **Zhichao Chen**, Yang Xiao, Li Du, Yuan Du &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/document/10182219)
 
-## Experience
+## Experiences
 - **2025.06 – 2025.09** &nbsp;&nbsp;&nbsp; Graduate Intern Tenical, Intel
 - **2023.09 – Present** &nbsp;&nbsp;&nbsp; Graduate Student Researcher, UCLA
