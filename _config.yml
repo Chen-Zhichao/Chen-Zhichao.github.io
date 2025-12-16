@@ -19,12 +19,6 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Chen-Zhichao.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 
-# ===== Fonts =====
-font:
-  google:
-    families:
-      - "Inter:400,500,700"
-      - "Inter:400,500,700"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -46,7 +40,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=V6V-o1sAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-0107-8512"
+  orcid            : # "https://orcid.org/0009-0003-0107-8512"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
