@@ -11,6 +11,7 @@ Hello, I am Zhichao Chen (陈治潮), a third-year Ph.D. student at [NanoCAD Lab
 I am always open to research collaborations and internship opportunities. Please feel free to reach out if you are interested in working with me.
 
 ## News
+- **2026.01** &nbsp;&nbsp;&nbsp; YAP+ is accepted by IEEE TCAD.
 - **2025.02** &nbsp;&nbsp;&nbsp; YAP is accepted by DAC 2025.
 - **2024.12** &nbsp;&nbsp;&nbsp; One paper got accepted by IEEE TVLSI.
 
@@ -19,6 +20,9 @@ I am always open to research collaborations and internship opportunities. Please
 - **2019.09 – 2023.06** &nbsp;&nbsp;&nbsp; B.E. in Electronic Science and Engineering, Nanjing University
 
 ## Selected Works
+- **YAP+: Pad-Layout-Aware Yield Modeling and Simulation for Hybrid Bonding**, *IEEE Transactions on on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026* 
+  **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]]() &nbsp; [[Code]](https://github.com/nanocad-lab/YAP)
+
 - **YAP: Yield Modeling and Simulation for Advanced Packaging**, *62nd ACM/IEEE Design Automation Conference (DAC), 2025*  
   **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]](https://ieeexplore.ieee.org/abstract/document/10787912) &nbsp; [[Code]](https://github.com/nanocad-lab/YAP)
 
