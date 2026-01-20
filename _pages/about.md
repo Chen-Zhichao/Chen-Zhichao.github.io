@@ -20,7 +20,7 @@ I am always open to research collaborations and internship opportunities. Please
 - **2019.09 – 2023.06** &nbsp;&nbsp;&nbsp; B.E. in Electronic Science and Engineering, Nanjing University
 
 ## Selected Works
-- **YAP+: Pad-Layout-Aware Yield Modeling and Simulation for Hybrid Bonding**, *IEEE Transactions on on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026* 
+- **YAP+: Pad-Layout-Aware Yield Modeling and Simulation for Hybrid Bonding**, *IEEE Transactions on on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026*  
   **Zhichao Chen**, Puneet Gupta &nbsp; | &nbsp; [[Paper]]() &nbsp; [[Code]](https://github.com/nanocad-lab/YAP)
 
 - **YAP: Yield Modeling and Simulation for Advanced Packaging**, *62nd ACM/IEEE Design Automation Conference (DAC), 2025*  
